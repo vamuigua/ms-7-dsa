@@ -9,3 +9,6 @@
 // put the lowest in its array 
 // put the highest in its array
 // output the highest then output the lowest
+
+Pseudo code:
+//create an array with numbers
